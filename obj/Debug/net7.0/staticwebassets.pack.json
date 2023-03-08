@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\API\\MalmöTradera.api\\wwwroot\\Images\\XboxHalo.jpg",
+      "PackagePath": "staticwebassets\\Images\\XboxHalo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\API\\MalmöTradera.api\\wwwroot\\Images\\laptop.jpg",
+      "PackagePath": "staticwebassets\\Images\\laptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\API\\MalmöTradera.api\\wwwroot\\Images\\no-Image.png",
+      "PackagePath": "staticwebassets\\Images\\no-Image.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MalmöTradera.api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MalmöTradera.api.props",
+      "PackagePath": "build\\MalmöTradera.api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MalmöTradera.api.props",
+      "PackagePath": "buildMultiTargeting\\MalmöTradera.api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MalmöTradera.api.props",
+      "PackagePath": "buildTransitive\\MalmöTradera.api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
