@@ -4,5 +4,17 @@
         "value" : 7000,
         "description" : "Inga sprickor, har haft den i 3 år. priset kan diskuteras",
         "issold" : false
-    }
+    },
+    {
+        "name": "Rog strix G15",
+        "value": 17000,
+        "description": "Rtx 4090, core i 9 12th gen, 32gb ram, 2tb uttrymme. priset kan diskuteras",
+        "ImageUrl": "laptop.png"
+    },
+    {
+        "name": "Xbox Halo Edition",
+        "value": 4000,
+        "description": "Har haft den i 3 år. priset kan diskuteras",
+        "ImageUrl": "xbox.png"
+      }
 ]

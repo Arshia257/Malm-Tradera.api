@@ -1,16 +1,16 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\API\\MalmöTradera.api\\wwwroot\\Images\\XboxHalo.jpg",
-      "PackagePath": "staticwebassets\\Images\\XboxHalo.jpg"
-    },
-    {
-      "Id": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\API\\MalmöTradera.api\\wwwroot\\Images\\laptop.jpg",
-      "PackagePath": "staticwebassets\\Images\\laptop.jpg"
+      "Id": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\API\\MalmöTradera.api\\wwwroot\\Images\\laptop.png",
+      "PackagePath": "staticwebassets\\Images\\laptop.png"
     },
     {
       "Id": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\API\\MalmöTradera.api\\wwwroot\\Images\\no-Image.png",
       "PackagePath": "staticwebassets\\Images\\no-Image.png"
+    },
+    {
+      "Id": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\API\\MalmöTradera.api\\wwwroot\\Images\\xbox.png",
+      "PackagePath": "staticwebassets\\Images\\xbox.png"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MalmöTradera.api.Microsoft.AspNetCore.StaticWebAssets.props",
